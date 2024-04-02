@@ -1,0 +1,19 @@
+C:\Users\RehMaT\source\repos\Project DM\bin\Debug\Project DM.exe.config
+C:\Users\RehMaT\source\repos\Project DM\bin\Debug\Project DM.exe
+C:\Users\RehMaT\source\repos\Project DM\bin\Debug\Project DM.pdb
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project DM.csproj.AssemblyReference.cache
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project_DM.Form1.resources
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project_DM.Properties.Resources.resources
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project DM.csproj.GenerateResource.cache
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project DM.csproj.CoreCompileInputs.cache
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project DM.exe
+C:\Users\RehMaT\source\repos\Project DM\obj\Debug\Project DM.pdb
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\bin\Debug\Project DM.exe.config
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project DM.exe
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project DM.pdb
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\bin\Debug\Project DM.exe
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\bin\Debug\Project DM.pdb
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project DM.csprojResolveAssemblyReference.cache
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project_DM.Form1.resources
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project_DM.Properties.Resources.resources
+C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\Semester 4 Spring\DM\Project\Project DM\obj\Debug\Project DM.csproj.GenerateResource.Cache
